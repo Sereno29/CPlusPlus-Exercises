@@ -1,0 +1,4 @@
+* Commenting #include <iostream>: the program won't know what is the object cout
+* Commenting int main(): the program won't have the main function which is necessary to run a program
+* Commenting std::cout "": the program won't do anything
+* Commenting } : the program won't have the main function closed
